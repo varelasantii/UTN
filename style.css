@@ -1,0 +1,30 @@
+h1 {
+    color: #dcec0a;
+    text-align: center;
+    background-color: black;
+}
+
+h2 {
+    color: #0aec9c;
+}
+
+h3 {
+    color: #0aec9c;
+}
+
+h4 {
+    text-transform: uppercase;
+}
+
+ol {
+    text-transform: uppercase;
+}
+
+h5 {
+    text-transform: uppercase;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ec970a;
+}
